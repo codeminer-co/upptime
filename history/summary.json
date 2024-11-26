@@ -1,22 +1,22 @@
 [
   {
     "name": "Ghoomo Phiroo API",
-    "url": "https://ghoomophiroo.com:3003/",
-    "icon": "https://icons.duckduckgo.com/ip3/ghoomophiroo.com.ico",
+    "url": "https://api.ghoomophiroo.com/status",
+    "icon": "https://icons.duckduckgo.com/ip3/api.ghoomophiroo.com.ico",
     "slug": "ghoomo-phiroo-api",
-    "status": "down",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
+    "time": 174,
+    "timeDay": 174,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-11-26": 3
+      "2024-11-26": 29
     }
   }
 ]
