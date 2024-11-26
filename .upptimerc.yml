@@ -9,12 +9,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: uptime.codeminer.co
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://codeminer.co/wp-content/uploads/2020/09/Asset-4.png
+  name: CodeMiners UpTime Monitor
+  introTitle: "CodeMiners Uptime Tracker – Your Reliable Monitoring Solution"
+  introMessage: "Welcome to the CodeMiners Uptime Tracker, a comprehensive monitoring system ensuring the reliability and performance of our services. Powered by GitHub Actions, our tracker provides real-time updates on system status and downtime — no additional server required. Stay informed with actionable insights and transparent reporting. Built and maintained by the experts at CodeMiners, we guarantee a seamless experience for your business operations."
   navbar:
     - title: Status
       href: /
