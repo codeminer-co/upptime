@@ -1,7 +1,7 @@
 url: https://api.ghoomophiroo.com/status
-status: up
-code: 200
-responseTime: 370
-lastUpdated: 2024-11-27T06:49:19.224Z
+status: down
+code: 504
+responseTime: 224
+lastUpdated: 2024-11-27T11:59:35.931Z
 startTime: 2024-11-26T07:40:07.385Z
 generator: Upptime <https://github.com/upptime/upptime>
