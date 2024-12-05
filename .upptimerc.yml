@@ -12,14 +12,20 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.codeminer.co
+  theme: light
   # baseUrl: /your-repo-name
   logoUrl: https://codeminer.co/wp-content/uploads/2020/09/Asset-4.png
+  favicon: https://codeminer.co/wp-content/uploads/2020/09/favicon.jpg
   name: CodeMiners UpTime Monitor
   introTitle: "CodeMiners Uptime Tracker – Your Reliable Monitoring Solution"
   introMessage: "Welcome to the CodeMiners Uptime Tracker, a comprehensive monitoring system ensuring the reliability and performance of our services. Powered by GitHub Actions, our tracker provides real-time updates on system status and downtime — no additional server required. Stay informed with actionable insights and transparent reporting. Built and maintained by the experts at CodeMiners, we guarantee a seamless experience for your business operations."
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://codeminer.co
+    - title: LinkedIn
+      href: https://www.linkedin.com/company/codeminer/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
