@@ -1,7 +1,7 @@
-url: https://prophecy.codeminer.co:3004/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-05T07:18:13.409Z
+url: http://prophecy.codeminer.co:3004/status
+status: up
+code: 200
+responseTime: 59
+lastUpdated: 2024-12-05T07:19:24.156Z
 startTime: 2024-12-05T06:52:16.047Z
 generator: Upptime <https://github.com/upptime/upptime>
