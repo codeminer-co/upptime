@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.64%",
-    "time": 294,
-    "timeDay": 314,
-    "timeWeek": 297,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "time": 296,
+    "timeDay": 317,
+    "timeWeek": 300,
+    "timeMonth": 296,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2024-11-27": 18,
       "2024-11-26": 29
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prophecy.codeminer.co.ico",
     "slug": "prophecy-api",
     "status": "down",
-    "uptime": "4.60%",
-    "uptimeDay": "4.60%",
-    "uptimeWeek": "4.60%",
-    "uptimeMonth": "4.60%",
-    "uptimeYear": "4.60%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-05": 0
+      "2024-12-05": 26
     }
   }
 ]
