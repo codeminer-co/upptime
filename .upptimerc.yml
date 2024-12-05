@@ -6,7 +6,7 @@ sites:
   - name: Ghoomo Phiroo API
     url: https://api.ghoomophiroo.com/status
   - name: Prophecy API
-    url: https://prophecy.codeminer.co:3004/status
+    url: http://prophecy.codeminer.co:3004/status
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
