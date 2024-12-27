@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Ghoomo Phiroo API
-    url: https://api.ghoomophiroo.com/status
+    url: https://stg-api.ghoomophiroo.com/status
   - name: Prophecy API
     url: http://prophecy.codeminer.co:3004/status
   - name: Human Currency API
