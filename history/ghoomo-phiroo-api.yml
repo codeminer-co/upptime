@@ -1,7 +1,7 @@
-url: https://api.ghoomophiroo.com/status
-status: down
-code: 404
-responseTime: 424
-lastUpdated: 2024-12-25T23:10:54.075Z
+url: https://stg-api.ghoomophiroo.com/status
+status: up
+code: 200
+responseTime: 192
+lastUpdated: 2024-12-27T06:40:39.215Z
 startTime: 2024-11-26T07:40:07.385Z
 generator: Upptime <https://github.com/upptime/upptime>
