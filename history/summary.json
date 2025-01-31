@@ -74,7 +74,7 @@
     "slug": "human-currency-api",
     "status": "up",
     "uptime": "39.63%",
-    "uptimeDay": "2.79%",
+    "uptimeDay": "2.80%",
     "uptimeWeek": "0.40%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "39.63%",
@@ -127,19 +127,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/helpoutweb.com.ico",
     "slug": "helper-log-api",
     "status": "up",
-    "uptime": "2.21%",
-    "uptimeDay": "2.21%",
-    "uptimeWeek": "2.21%",
-    "uptimeMonth": "2.21%",
-    "uptimeYear": "2.21%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 217,
     "timeWeek": 217,
     "timeMonth": 217,
     "timeYear": 217,
-    "dailyMinutesDown": {
-      "2025-01-31": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Brands Dekho API",
