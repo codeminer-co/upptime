@@ -10,7 +10,7 @@ sites:
   - name: Human Currency API
     url: http://codeminer.co:3010/status
   - name: HelperLog API
-    url: https://helpoutweb.com:3002/status
+    url: http://helpoutweb.com:3001/status
   - name: Brands Dekho API
     url: http://codeminer.co:3050/status
     
