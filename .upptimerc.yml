@@ -6,9 +6,9 @@ sites:
   - name: Ghoomo Phiroo API
     url: https://stg-api.ghoomophiroo.com/status
   - name: Prophecy API
-    url: http://prophecy.codeminer.co:3004/status
+    url: http://codeminer.co:3004/status
   - name: Human Currency API
-    url: http://humancurrency.org:3000/status
+    url: http://codeminer.co:3010/status
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
